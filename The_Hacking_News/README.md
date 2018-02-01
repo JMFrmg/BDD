@@ -1,24 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Exercice incomplet
+Je ne suis pas arrivé à afficher le niveau de chaque commentaire.
+J'ai essayé de modifier le fichier comment.rb pour intégrer le niveau du commentaire dans la variable level, sans succès.
+Une solution au problème aurait été d'agir au niveau du contrôleur, mais ça n'aurait pas vraiment collé à la consigne...
+Bonne lecture, j'espère que tu as trouvé la solution de ton coté :)
